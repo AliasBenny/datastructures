@@ -19,8 +19,6 @@ def binarySearch(arr, l, r, x):
     
     return -1
  
- 
-
 arr = []
 n=int(input("enter the no of elements"))
 for i in range(n):
